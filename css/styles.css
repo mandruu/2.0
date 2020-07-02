@@ -1,0 +1,143 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family:  cursive;
+  font-size: 100%;
+}
+
+h1{
+  margin: 0px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 4.5rem;
+  color : #11999E;
+}
+
+a{
+  color : #11999E;
+  font-size: 20px;
+  padding : 30px;
+  text-decoration:none;
+}
+
+hr{
+  width:5%;
+  border-top: 5px dotted grey;
+  border-bottom:none;
+  border-left:none;
+  border-right:none;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.skill-row{
+  width: 50%;
+  margin : 150px auto;
+  text-align: left;
+}
+.jhony{
+  margin-top: 40px;
+  border-radius: 100%;
+}
+
+.imagen2{
+  margin-right: 30px;
+  width: 25%;
+  height: 25%;
+    float: left;
+}
+
+.H2E{
+  text-align: left;
+
+}
+
+.habilidades{
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+h3{
+  margin-top : 0px;
+  margin-bottom: 80px;
+  font-size: 2rem;
+  font-family: 'Dancing Script', cursive;
+  color : #11999E;
+}
+
+h2{
+  color : #11999E;
+}
+
+p{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.profile{
+  text-align: center;
+  width: 50%;
+  margin : 50px auto;
+}
+.nubed{
+  position: absolute;
+  top : 230px;
+   left : 470px
+}
+.nubei{
+ position: absolute;
+ top : 50px;
+ right : 470px
+}
+.superior{
+  background-color: #8bcdcd;
+  display: block;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.middle-container{
+  background-color: white;
+
+
+}
+
+.bottom-container{
+  background-color: #8bcdcd;
+  padding: 50px;
+  margin-top: 70px;
+}
+
+.pie{
+  color : white;
+  margin-top: 50px;
+}
+
+h4{
+
+  color : #11999E;
+}
+
+.myButton {
+	background-color:#11999E;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #11999E;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:cursive;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #11999E;
+}
+.myButton:hover {
+	background-color:#89c9b8;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
